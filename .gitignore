@@ -55,3 +55,13 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+/ArduinoLightControl/*.iml
+/ArduinoLightControl/.gradle
+/ArduinoLightControl/local.properties
+/ArduinoLightControl/.idea/workspace.xml
+/ArduinoLightControl/.idea/libraries
+/ArduinoLightControl/.DS_Store
+/ArduinoLightControl/build
+/ArduinoLightControl/captures
+/ArduinoLightControl/.externalNativeBuild
