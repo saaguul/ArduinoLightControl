@@ -13,9 +13,11 @@ bin/
 gen/
 out/
 
+
 # Gradle files
 .gradle/
 build/
+ArduinoLightControl/
 
 # Local configuration file (sdk path, etc)
 local.properties
